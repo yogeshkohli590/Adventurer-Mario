@@ -1,0 +1,31 @@
+# Flutter build and generated folders
+.dart_tool/
+.idea/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+build_web.log
+
+# Local and platform generated folders that should not be uploaded
+android/.gradle/
+android/app/.cxx/
+android/.cxx/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+linux/flutter/generated_plugins.cmake
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+
+# OS/editor noise
+.DS_Store
+*.iml
+
+# Optional: keep APK outputs out of source repo
+*.apk
